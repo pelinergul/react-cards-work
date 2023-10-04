@@ -1,0 +1,14 @@
+.image.is-4by3 img {
+  height: 150px;
+}
+.image.is-4by3 {
+  padding-top: 150px;
+}
+.title.is-4 {
+  text-align: center;
+  padding-block: 15px;
+}
+.card-content {
+  padding: 0px 25px 25px 20px;
+  word-break: break-all;
+}
